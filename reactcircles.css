@@ -1,0 +1,14 @@
+body
+{
+    background-color: #292933;
+}
+
+.canvasPos {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-top: -300px;
+    margin-left: -300px;
+    width: 600px;
+    height: 600px;
+} 
