@@ -1,7 +1,7 @@
 ReactCircles.jsoo
 =================
 
-A OCaml React and js_of_ocaml example.
+An OCaml React and js_of_ocaml example.
 
 Demo at : http://www.shabteam.com/reactdraw
 
